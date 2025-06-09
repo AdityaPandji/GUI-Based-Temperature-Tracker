@@ -12,11 +12,12 @@ Error handling for invalid inputs.
 
 Simple and intuitive user interface.
 
-🎯 Aims & Benefits
-🔁 Real-time Monitoring: Tracks temperature data for seven days.
+🧑‍💻 How to Run
+Make sure you have Java installed (JDK 1.8 or above).
 
-🖥️ User-Friendly Interface: Easy-to-use layout built with Java Swing.
+Save the code in a file named TempTrackerGUI.java.
 
-📊 Data Analysis: Calculates average, maximum, and minimum temperatures.
+Compile and run using the command line or any Java IDE:
 
-🌐 Multi-source Potential: Although this version accepts user input only, the framework can be extended to support sensor data or APIs like OpenWeatherMap.
+javac TempTrackerGUI.java
+java TempTrackerGUI
