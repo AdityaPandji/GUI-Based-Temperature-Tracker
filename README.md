@@ -19,5 +19,5 @@ Save the code in a file named TempTrackerGUI.java.
 
 Compile and run using the command line or any Java IDE:
 
-javac TempTrackerGUI.java
+javac TempTrackerGUI.java & 
 java TempTrackerGUI
